@@ -1,5 +1,5 @@
 # Colors Application
-App repo: https://github.com/todaywasawesome/color-coded
+App repo: https://github.com/lrochette/color-coded
 
 # Promoting changes from staging to production. 
 The manifest folder uses a sub-folder for each application to be managed with additional subfolders for each environment. 

@@ -6,7 +6,7 @@ spec:
   project: default
   source:
     path: manifests/colors/production
-    repoURL: 'https://github.com/todaywasawesome/oss-apps.git'
+    repoURL: 'https://github.com/lrochette/oss-apps.git'
     targetRevision: HEAD
   destination:
     name: oss-prod
